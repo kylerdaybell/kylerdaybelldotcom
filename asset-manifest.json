@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/kylerdaybelldotcom/static/css/main.4c9c3ade.chunk.css",
-    "main.js": "/kylerdaybelldotcom/static/js/main.41cc893e.chunk.js",
-    "main.js.map": "/kylerdaybelldotcom/static/js/main.41cc893e.chunk.js.map",
+    "main.css": "/kylerdaybelldotcom/static/css/main.09c7615c.chunk.css",
+    "main.js": "/kylerdaybelldotcom/static/js/main.34d6662c.chunk.js",
+    "main.js.map": "/kylerdaybelldotcom/static/js/main.34d6662c.chunk.js.map",
     "runtime-main.js": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js",
     "runtime-main.js.map": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js.map",
-    "static/js/2.af33cfce.chunk.js": "/kylerdaybelldotcom/static/js/2.af33cfce.chunk.js",
-    "static/js/2.af33cfce.chunk.js.map": "/kylerdaybelldotcom/static/js/2.af33cfce.chunk.js.map",
+    "static/js/2.304b3bb3.chunk.js": "/kylerdaybelldotcom/static/js/2.304b3bb3.chunk.js",
+    "static/js/2.304b3bb3.chunk.js.map": "/kylerdaybelldotcom/static/js/2.304b3bb3.chunk.js.map",
     "index.html": "/kylerdaybelldotcom/index.html",
-    "precache-manifest.4c23e0964bf8354578dbb78431dc41b2.js": "/kylerdaybelldotcom/precache-manifest.4c23e0964bf8354578dbb78431dc41b2.js",
+    "precache-manifest.9981b33209e24e82fa34879c48af39b9.js": "/kylerdaybelldotcom/precache-manifest.9981b33209e24e82fa34879c48af39b9.js",
     "service-worker.js": "/kylerdaybelldotcom/service-worker.js",
-    "static/css/main.4c9c3ade.chunk.css.map": "/kylerdaybelldotcom/static/css/main.4c9c3ade.chunk.css.map",
-    "static/js/2.af33cfce.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.af33cfce.chunk.js.LICENSE.txt",
+    "static/css/main.09c7615c.chunk.css.map": "/kylerdaybelldotcom/static/css/main.09c7615c.chunk.css.map",
+    "static/js/2.304b3bb3.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.304b3bb3.chunk.js.LICENSE.txt",
     "static/media/homepage.css": "/kylerdaybelldotcom/static/media/Buildings.d041f4f0.jpg",
-    "static/media/aboutpage.css": "/kylerdaybelldotcom/static/media/lines.d1099c27.jpg",
+    "static/media/projectspage.css": "/kylerdaybelldotcom/static/media/Buildingnumber2.cb9260b5.jpg",
     "static/media/ExpressLogo.png": "/kylerdaybelldotcom/static/media/ExpressLogo.fe9713b4.png",
     "static/media/Group.jpg": "/kylerdaybelldotcom/static/media/Group.2184ecc0.jpg",
     "static/media/JestLogo.png": "/kylerdaybelldotcom/static/media/JestLogo.450c112d.png",
+    "static/media/aboutpage.css": "/kylerdaybelldotcom/static/media/lines.d1099c27.jpg",
     "static/media/examplepage.css": "/kylerdaybelldotcom/static/media/Mountain.f024185c.jpg",
     "static/media/MySQLLogo.png": "/kylerdaybelldotcom/static/media/MySQLLogo.af25e683.png",
     "static/media/NodeLogo.png": "/kylerdaybelldotcom/static/media/NodeLogo.74f3cbcd.png",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9b662349.js",
-    "static/js/2.af33cfce.chunk.js",
-    "static/css/main.4c9c3ade.chunk.css",
-    "static/js/main.41cc893e.chunk.js"
+    "static/js/2.304b3bb3.chunk.js",
+    "static/css/main.09c7615c.chunk.css",
+    "static/js/main.34d6662c.chunk.js"
   ]
 }
