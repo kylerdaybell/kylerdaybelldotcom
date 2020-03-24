@@ -1,0 +1,85 @@
+body{
+    background-image: url('../images/Mountain.jpg');
+    background-size:cover!important;
+}
+
+.node-example{
+    text-align: center;
+}
+
+.node-example-image{
+    grid-area: example;
+    width:100%;
+    height:100%;
+    opacity: .5;
+    z-index: -1;
+}
+
+
+.card{
+    display: inline-block;
+    width:20vw;
+    text-align: center;
+    background-color:#262333;
+    margin:1vw!important;
+    max-height: 20vh;
+}
+
+@media(hover: none) and (pointer: coarse){
+    .card{
+        display: inline-block;
+        width:90vw;
+        text-align: center;
+        background-color:#262333;
+        margin:1vw!important;
+        max-height: 20vh;
+    }
+
+}
+
+.card:hover h1{
+    color:#31e184;
+}
+
+.card-logo{
+    max-width: 90%;
+    height: 10vh;
+}
+
+h1{
+    color:#ccd1dd;
+}
+
+
+/* text settings */
+.roboto-text-thick{
+    font-family: 'Roboto', sans-serif;
+    text-emphasis: thin;
+    font-weight:700;
+}
+
+.roboto-text-thin{
+    font-family: 'Roboto', sans-serif;
+    text-emphasis: thin;
+    font-weight:100;
+}
+
+.page-text{
+    margin:auto;
+    margin-bottom:2vh;
+    padding:1vh;
+    background-color: grey;
+    color:white;
+    width: 80%;
+}
+
+.page-text p{
+    text-emphasis:bold;
+}
+
+
+.no-wrap-ellipsis{
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}

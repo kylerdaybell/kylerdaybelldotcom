@@ -37,78 +37,79 @@ class AboutPage extends Component {
                             <h3>Node.js</h3>
                         </div>
                         <div className="skillstars skill1stars">
-                            <h3>&#9733 &#9733 &#9733 &#9733 &#9733</h3>
+                            <h3> 
+                                &#9733; &#9733; &#9733; &#9733; &#9733;</h3>
                         </div>
                         <div className="skillname skill2name">
                             <h3>Express</h3>
                         </div>
                         <div className="skillstars skill2stars">
-                            <h3>&#9733 &#9733 &#9733 &#9733 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9733; &#9734;</h3>
                         </div>
                         
                         <div className="skillname skill3name">
                             <h3>HTML/CSS</h3>
                         </div>
                         <div className="skillstars skill3stars">
-                            <h3>&#9733 &#9733 &#9733 &#9733 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9733; &#9734;</h3>
                         </div>
                         <div className="skillname skill4name">
                             <h3>SQL / Database Design</h3>
                         </div>
                         <div className="skillstars skill4stars">
-                            <h3>&#9733 &#9733 &#9733 &#9733 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9733; &#9734;</h3>
                         </div>
                        
                         <div className="skillname skill5name">
                             <h3>Version control (Git)</h3>
                         </div>
                         <div className="skillstars skill5stars">
-                            <h3>&#9733 &#9733 &#9733 &#9733 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9733; &#9734;</h3>
                         </div>
                         <div className="skillname skill6name">
                             <h3>Jest Testing framework</h3>
                         </div>
                         <div className="skillstars skill6stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         
                         <div className="skillname skill7name">
                             <h3>Electron</h3>
                         </div>
                         <div className="skillstars skill7stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         <div className="skillname skill8name">
                             <h3>Server Administration</h3>
                         </div>
                         <div className="skillstars skill8stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         
                         <div className="skillname skill7name">
                             <h3>PHP</h3>
                         </div>
                         <div className="skillstars skill7stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         <div className="skillname skill8name">
                             <h3>linux</h3>
                         </div>
                         <div className="skillstars skill8stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         
                         <div className="skillname skill7name">
                             <h3>React</h3>
                         </div>
                         <div className="skillstars skill7stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         <div className="skillname skill8name">
                             <h3>Agile</h3>
                         </div>
                         <div className="skillstars skill8stars">
-                            <h3>&#9733 &#9733 &#9733 &#9734 &#9734</h3>
+                            <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                     </div>
                 </div>
