@@ -49,37 +49,3 @@ body{
 h1{
     color:#ccd1dd;
 }
-
-
-/* text settings */
-.roboto-text-thick{
-    font-family: 'Roboto', sans-serif;
-    text-emphasis: thin;
-    font-weight:700;
-}
-
-.roboto-text-thin{
-    font-family: 'Roboto', sans-serif;
-    text-emphasis: thin;
-    font-weight:100;
-}
-
-.page-text{
-    margin:auto;
-    margin-bottom:2vh;
-    padding:1vh;
-    background-color: grey;
-    color:white;
-    width: 80%;
-}
-
-.page-text p{
-    text-emphasis:bold;
-}
-
-
-.no-wrap-ellipsis{
-    white-space: nowrap; 
-    overflow: hidden;
-    text-overflow: ellipsis; 
-}

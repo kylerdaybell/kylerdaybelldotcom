@@ -72,3 +72,32 @@ a{
     overflow: hidden;
     text-overflow: ellipsis; 
 }
+
+
+
+@media(hover: none) and (pointer: coarse){
+  .bar{
+      background-color: #262333;
+      height: 10vh!important;
+  }
+
+  .bar-item{
+      font-weight: 200;
+      line-height: 10vh;
+      font-size: 2vh;
+      color:#ccd1dd;
+      padding:.75vh;
+      margin:auto;
+  }
+
+  .bar-item-main{
+      font-weight: 400;
+      font-size: 10vh;
+      line-height: 10vh;
+      font-size: 2vh;
+      color:#ccd1dd;
+      padding:.75vh;
+      margin:auto;
+      border-right:1px solid #ccd1dd;
+  }
+}
