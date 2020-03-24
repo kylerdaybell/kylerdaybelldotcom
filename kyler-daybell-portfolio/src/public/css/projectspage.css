@@ -90,3 +90,23 @@ h3{
     font-size: 2vw;
     padding:0;
 }
+
+@media(hover: none) and (pointer: coarse){
+    p{
+        font-size: 40pt;
+    }
+
+    .button-green{
+        font-size: 30pt;
+    }
+    .project{
+        max-width: 95vw;
+        padding:10px;
+    }
+    .project-holder1{
+        padding:2.5vw;
+    }
+    .project-holder2{
+        padding:2.5vw;
+    }
+}
