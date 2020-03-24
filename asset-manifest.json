@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/kylerdaybelldotcom/static/css/main.5f361e03.chunk.css",
-    "main.js": "/kylerdaybelldotcom/static/js/main.18eb633f.chunk.js",
-    "main.js.map": "/kylerdaybelldotcom/static/js/main.18eb633f.chunk.js.map",
+    "main.css": "/kylerdaybelldotcom/static/css/main.78ed66f6.chunk.css",
+    "main.js": "/kylerdaybelldotcom/static/js/main.4464c4a4.chunk.js",
+    "main.js.map": "/kylerdaybelldotcom/static/js/main.4464c4a4.chunk.js.map",
     "runtime-main.js": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js",
     "runtime-main.js.map": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js.map",
-    "static/js/2.ff8e83c5.chunk.js": "/kylerdaybelldotcom/static/js/2.ff8e83c5.chunk.js",
-    "static/js/2.ff8e83c5.chunk.js.map": "/kylerdaybelldotcom/static/js/2.ff8e83c5.chunk.js.map",
+    "static/js/2.72c0643b.chunk.js": "/kylerdaybelldotcom/static/js/2.72c0643b.chunk.js",
+    "static/js/2.72c0643b.chunk.js.map": "/kylerdaybelldotcom/static/js/2.72c0643b.chunk.js.map",
     "index.html": "/kylerdaybelldotcom/index.html",
-    "precache-manifest.5f3fb0998b0c0e1a9a383b97b3b01f7d.js": "/kylerdaybelldotcom/precache-manifest.5f3fb0998b0c0e1a9a383b97b3b01f7d.js",
+    "precache-manifest.0e1801dd0041b629e8ce74a625d55e1c.js": "/kylerdaybelldotcom/precache-manifest.0e1801dd0041b629e8ce74a625d55e1c.js",
     "service-worker.js": "/kylerdaybelldotcom/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/kylerdaybelldotcom/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ff8e83c5.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.ff8e83c5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/kylerdaybelldotcom/static/media/logo.5d5d9eef.svg"
+    "static/css/main.78ed66f6.chunk.css.map": "/kylerdaybelldotcom/static/css/main.78ed66f6.chunk.css.map",
+    "static/js/2.72c0643b.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.72c0643b.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/kylerdaybelldotcom/static/media/Squares.9b704014.jpg",
+    "static/media/Group.jpg": "/kylerdaybelldotcom/static/media/Group.2184ecc0.jpg",
+    "static/media/Single-Line-Logo.png": "/kylerdaybelldotcom/static/media/Single-Line-Logo.9a490b45.png",
+    "static/media/logo.png": "/kylerdaybelldotcom/static/media/logo.665e1249.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9b662349.js",
-    "static/js/2.ff8e83c5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.18eb633f.chunk.js"
+    "static/js/2.72c0643b.chunk.js",
+    "static/css/main.78ed66f6.chunk.css",
+    "static/js/main.4464c4a4.chunk.js"
   ]
 }
