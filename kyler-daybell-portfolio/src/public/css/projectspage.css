@@ -1,0 +1,92 @@
+body{
+    background-color: #262333!important;
+}
+
+.top{
+    background-image: url("../images/Buildingnumber2.jpg");
+    background-size:fill;
+    background-repeat: no-repeat;
+    height: 20vh;
+    position: relative;
+}
+
+.header-image{
+    width:100%;
+    height:100%;
+    opacity: .5;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.titleheader{
+    text-align: center;
+    line-height: 20vh;
+}
+
+.project{
+    margin:auto;
+    text-align:center;
+    max-width: 75vh;
+    background-color: #433e5a;
+    padding:1vh;
+}
+
+.project-holder1{
+    text-align: center;
+    color:#ccd1dd;
+    background-color: #262333;
+    min-height: 50vh;
+    padding:5vh;
+}
+
+.project-holder2{
+    text-align: center;
+    color:#ccd1dd;
+    background-color: #262333;
+    min-height: 50vh;
+    padding:5vh;
+}
+
+.header{
+    font-size:7vh;
+    z-index: 1!important;
+}
+
+
+.green{
+    color:#31e184;
+}
+
+.thick{
+    font-weight: 700;
+}
+
+.thin{
+    font-weight: 100;
+}
+
+p{
+    font-size: calc(10px+5vmin);
+}
+
+h1{
+    font-size: 7vh;
+    
+}
+
+h2{
+    font-size: 5vh;
+}
+
+h3{
+    font-size: 3vh;
+}
+
+.button-green{
+    margin:10px!important;
+    color:white;
+    font-size: 2vw;
+    padding:0;
+}
