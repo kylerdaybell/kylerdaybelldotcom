@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,700&display=swap');
+body{
+    background-color: #262333;
+}
+
+
+h1{
+    margin-top: 0;
+}
+a{
+    text-decoration: none;
+}
+
+.green{
+    color:#31e184;
+}
+
+/* this is the navbar */
+*{
+    font-family: 'Roboto', sans-serif;
+    text-emphasis: thin;
+    font-weight:400;
+}
+
+.button-green{
+    background-color: #31e184;
+    box-shadow: none;
+    border: none;
+    padding:.5vh;
+    width: auto;
+}
+
+.button-green:hover{
+    opacity: .5;
+}
+
+.bar{
+    grid-area:nav;
+    background-color: #262333;
+    height: 5vh;
+}
+.bar-item{
+    font-weight: 200;
+    line-height: 5vh;
+    font-size: large;
+    color:#ccd1dd;
+    padding:.75vh;
+    margin:auto;
+}
+
+.bar-item-main{
+    font-weight: 200;
+    font-size: 5vh;
+    line-height: 5vh;
+    font-size: large;
+    color:#ccd1dd;
+    padding:.75vh;
+    margin:auto;
+    border-right:1px solid #ccd1dd;
+}
+
+.bar-item-main:hover{
+    color:#31e184;
+}
+
+.bar-item:hover{
+    color:#31e184;
+}
+
+.no-wrap{
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
