@@ -1,6 +1,7 @@
 import React from 'react';
 import { Route, Switch } from "react-router";
-import Homepage from './components/home';
+import HomePage from './components/home';
+import AboutPage from './components/about'
 import Navbar from './components/navbar';
 import Notfound from './components/notfound'
 import './public/css/App.css';
@@ -12,7 +13,8 @@ function App() {
     <Navbar/>
     <div className="container">
       <Switch>
-        <Route exact path="/" component={Homepage} />
+        <Route exact path="/" component={HomePage} />
+        <Route path="/About" component={AboutPage} />
         <Route path="/404" component={Notfound} />
         <Route component={Notfound} />
       </Switch>

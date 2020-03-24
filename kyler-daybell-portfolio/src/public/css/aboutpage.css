@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,700&display=swap');
+a{
+    text-decoration: none;
+}
+
+p{
+    font-size: 4vh;
+}
+
+/* grid setup area */
+
+.header{
+    text-align: center;
+    justify-self: center;
+    align-self: start;
+    color:#ccd1dd;
+    font-weight: 100;
+    font-size:7vh;
+    z-index: 1!important;
+}
+
+.header h3{
+    font-size: 4vh;
+}
+
+
+.header-padding{
+    padding-left: 1vw;
+    z-index: 1!important;
+}
+
+
+body{
+    background-color: #262333;   
+}
+
+.section1{
+    background-image: url("../images/Keyboard.jpg");
+    background-color: rgba(38, 35, 51,0.8);
+    background-blend-mode: darken;
+    background-size: cover;
+    padding: 2vh;
+    min-height: 50vh;
+}
+
+.section2{
+    background-image: url("../images/lines.jpg");
+    background-color: rgba(38, 35, 51,0.5);
+    background-blend-mode: darken  ;
+    background-size: cover;
+    padding: 2vh;
+    min-height: 50vh;
+}
+
+.section3{
+    background-image: url("../images/WhiteCracks.jpg");
+    background-color: rgba(38, 35, 51,0.8);
+    background-blend-mode: darken  ;
+    background-size: cover;
+    padding: 2vh;
+    min-height: 50vh;
+}
+
+.section4{
+    background-image: url("../images/Squares.jpg");
+    background-color: rgba(38, 35, 51,0.5);
+    background-blend-mode: darken  ;
+    background-size: cover;
+    padding: 2vh;
+    min-height: 50vh;
+}
+
+.section5{
+    background-image: url("../images/Buildingnumber2.jpg");
+    background-color: rgba(38, 35, 51,0.5);
+    background-blend-mode: darken  ;
+    background-size: cover;
+    padding: 2vh;
+}
+
+.section5 h1 .button
+{
+    color:black;
+    background-color: #31e184;
+    padding:.5vh;
+}
+
+
+
+
+.work-experience p{
+    color:#ccd1dd;
+}
+
+.work-experience h2{
+    font-size: 5vh;
+    color:#31e184;
+}
+
+.work-experience h3{
+    font-size: 3vh;
+    color:#ccd1dd;
+}
+
+
+
+
+
+
+.header-text1{
+    grid-area: skillstitle;
+}
+
+.small-text{
+    font-size: 2vh;
+}
+
+
+
+
+/* skills sub grid */
+
+.skills{
+    display: grid;
+    grid-template-columns: subgrid;
+    grid-template-columns: 25% 25% 25% 25% ;
+    grid-template-rows:10vh 5vh;
+    grid-template-areas: 
+    "skillstitle skillstitle skillstitle skillstitle"
+    "skill1name skill1stars skill2name skill2stars "
+    "skill3name skill3stars skill4name skill4stars "
+    "skill5name skill5stars skill6name skill6stars ";
+    z-index: 2;
+}
+
+
+.header-text2{
+    grid-area: image2;
+}
+
+.image-header2{
+    grid-area: image2;
+}
+
+.image-header-image2{
+    grid-area: image2;
+    width:100%;
+    height:100%;
+    opacity: .5;
+    z-index: -1;
+}
+
+.skillname{
+    color:#31e184;
+    z-index: 2;
+    justify-self:end;
+    align-self:center;
+    padding-right: 2vh;
+}
+
+.skillstars{
+    color:#ccd1dd;
+    justify-self:start;
+    align-self:center;
+}
+
+
+/* skills and stars */
+
+.skill1name{
+    grid-area: skill1name;
+   
+}
+.skill1stars{
+
+    grid-area: skill1stars;
+}
+.skill2name{
+    grid-area: skill2name;
+
+}
+.skill2stars{
+    grid-area: skill2stars;
+
+}
+.skill3name{
+    grid-area: skill3name;
+
+}
+.skill3stars{
+    grid-area: skill3stars;
+}
+.skill4name{
+    grid-area: skill4name;
+
+}
+.skill4stars{
+    grid-area: skill4stars;
+}
+.skill5name{
+    grid-area: skill5name;
+
+}
+.skill5stars{
+    grid-area: skill5stars;
+}
+.skill6name{
+    grid-area: skill6name;
+
+}
+.skill6stars{
+    grid-area: skill6stars;
+}
+

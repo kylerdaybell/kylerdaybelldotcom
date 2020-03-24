@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,700&display=swap');
+
+a{
+    text-decoration: none;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+    text-emphasis: thin;
+    font-weight:400;
+}
+
+.button{
+    background-color: #31e184;
+    box-shadow: none;
+    border: none;
+    color:#ccd1dd;
+    padding:5vh;
+    opacity: 0.5;
+}
+
+.button:hover{
+    opacity: 1;
+}
+
+/* grid setup area */
+body{
+    background-color: #262333;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 100vh;
+    grid-template-areas: 
+    "image";
+    
+}
+/* this is the first image area */
+.image-header{
+    grid-area: image;
+}
+
+.image-header-image{
+    width:100vw;
+    height:100vh;
+    opacity: .5;
+    z-index: -1;
+}
+
+.header-text{
+    grid-area: image;
+    justify-self: center;
+    align-self: center;
+    text-align:center;
+    color:#ccd1dd;
+    font-weight: 100vw;
+    font-size: calc(20px + 4vmin);
+    z-index: 1!important;
+}
+
+
+
+
+/* text settings */
+.roboto-text-thick{
+    font-family: 'Roboto', sans-serif;
+    text-emphasis: thin;
+    font-weight:700;
+}
+
+.roboto-text-thin{
+    font-family: 'Roboto', sans-serif;
+    text-emphasis: thin;
+    font-weight:100;
+}
+
+

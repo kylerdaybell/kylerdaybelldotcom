@@ -1,13 +1,22 @@
 import React, { Component } from 'react';
+import { NavLink } from "react-router-dom";
 import singlelinelogo from '../public/images/Single-Line-Logo.png'
 class Navbar extends Component {
     render() {
       return (
-        <div class="bar">
-            <a href="/" class="bar-item-main roboto-text-thin">kylerdaybell.com</a>
-            <a href="/About" class="bar-item roboto-text-thin">About</a>
-            <a href="/Projects" class="bar-item roboto-text-thin">Projects</a>
-            <a href="/Examples" class="bar-item roboto-text-thin">Examples</a>
+        <div className="bar">
+            <NavLink className="bar-item-main roboto-text-thin" to="/">
+              kylerdaybell.com
+            </NavLink >
+            <NavLink className="bar-item-main roboto-text-thin" to="/About">
+              About
+            </NavLink >
+            <NavLink className="bar-item-main roboto-text-thin" to="/Projects">
+              projects
+            </NavLink >
+            <NavLink className="bar-item-main roboto-text-thin" to="/Examples">
+              examples
+            </NavLink >
         </div>
       );
     }
