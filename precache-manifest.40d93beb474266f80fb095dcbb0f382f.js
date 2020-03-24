@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "136ee2cd3e7a8e9139a34b4b25e98b24",
+    "revision": "a2e1f22be0f73e26304e7b9c475a3ad5",
     "url": "/kylerdaybelldotcom/index.html"
   },
   {
-    "revision": "fde397577961994230f8",
-    "url": "/kylerdaybelldotcom/static/css/main.05bed355.chunk.css"
+    "revision": "27e4d9c872ee9ee8808d",
+    "url": "/kylerdaybelldotcom/static/css/main.d2661922.chunk.css"
   },
   {
-    "revision": "3aba538f417cdc6287db",
-    "url": "/kylerdaybelldotcom/static/js/2.198ceb03.chunk.js"
+    "revision": "0a7bf1f2638189f4cb01",
+    "url": "/kylerdaybelldotcom/static/js/2.af33cfce.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/kylerdaybelldotcom/static/js/2.198ceb03.chunk.js.LICENSE.txt"
+    "url": "/kylerdaybelldotcom/static/js/2.af33cfce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fde397577961994230f8",
-    "url": "/kylerdaybelldotcom/static/js/main.b3b42de1.chunk.js"
+    "revision": "27e4d9c872ee9ee8808d",
+    "url": "/kylerdaybelldotcom/static/js/main.7d685cad.chunk.js"
   },
   {
     "revision": "f25b401080b08c9d5573",
@@ -36,12 +36,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kylerdaybelldotcom/static/media/Buildings.d041f4f0.jpg"
   },
   {
+    "revision": "fe9713b46834e58c1664e3cb143f01a5",
+    "url": "/kylerdaybelldotcom/static/media/ExpressLogo.fe9713b4.png"
+  },
+  {
     "revision": "2184ecc0b6491eac7558d3a48e6e5bcb",
     "url": "/kylerdaybelldotcom/static/media/Group.2184ecc0.jpg"
   },
   {
+    "revision": "450c112d0d32c82bd89919ff36cb79ca",
+    "url": "/kylerdaybelldotcom/static/media/JestLogo.450c112d.png"
+  },
+  {
     "revision": "6109c3ffdf9deae3da77b0fde0ff53bc",
     "url": "/kylerdaybelldotcom/static/media/Keyboard.6109c3ff.jpg"
+  },
+  {
+    "revision": "f024185c148bbceb7d4b1f522b5f156e",
+    "url": "/kylerdaybelldotcom/static/media/Mountain.f024185c.jpg"
+  },
+  {
+    "revision": "af25e683b9a66ddf279939e77d47ad3a",
+    "url": "/kylerdaybelldotcom/static/media/MySQLLogo.af25e683.png"
+  },
+  {
+    "revision": "74f3cbcd6167a29366f1c4bd9e0ace3f",
+    "url": "/kylerdaybelldotcom/static/media/NodeLogo.74f3cbcd.png"
+  },
+  {
+    "revision": "47ce6e77f039020ee2e76a10c1e988e9",
+    "url": "/kylerdaybelldotcom/static/media/ReactLogo.47ce6e77.png"
   },
   {
     "revision": "9a490b458560a090294c617544988d18",
