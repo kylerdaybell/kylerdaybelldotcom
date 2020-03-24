@@ -134,6 +134,35 @@ body{
 }
 
 
+
+@media(hover: none) and (pointer: coarse){
+    .skills{
+        display: grid;
+        grid-template-columns: subgrid;
+        grid-template-columns:  50% 50% ;
+        grid-template-rows:10vh 5vh;
+        grid-template-areas: 
+        "skillstitle skillstitle"
+        "skill1name skill1stars"
+        "skill2name skill2stars "
+        "skill3name skill3stars "
+        "skill4name skill4stars "
+        "skill5name skill5stars "
+        "skill6name skill6stars ";
+        z-index: 2;
+        padding:5%;
+    }
+    
+    .skills h3{
+        font-size: 2vh;
+        white-space: nowrap; 
+        overflow: hidden;
+        text-overflow: ellipsis; 
+    
+    }
+}
+
+
 .header-text2{
     grid-area: image2;
 }

@@ -9,7 +9,7 @@ class AboutPage extends Component {
         return (
             <>
                 <div className="section1 header">
-            `        <h1 className="header">Hi I'm <span className="green">Kyler Daybell</span>.</h1>
+                    <h1 className="header">Hi I'm <span className="green">Kyler Daybell</span>.</h1>
                     <div className="roboto-text-thin header-padding">
                         <p className="roboto-text-thin header-padding">
                             I love working with <span className="green">code</span> and building amazing new things.
@@ -124,27 +124,27 @@ class AboutPage extends Component {
                                 June 2019 - Current
                             </p>
                             <p className="small-text ">
-                                &#8226 Administering I.T. for 20+ small businesses.<br/>
-                                &#8226 Working with legacy code to make systems robust and testable.<br/>
-                                &#8226 Providing technical support to customers
+                                &#8226; Administering I.T. for 20+ small businesses.<br/>
+                                &#8226; Working with legacy code to make systems robust and testable.<br/>
+                                &#8226; Providing technical support to customers
                             </p>
-                            <h3 className="green ">Computer Science Tutor</h3>
+                            <h2 className="green ">Computer Science Tutor</h2>
                                 <h3 className="">@ Snow College Computer Science Department</h3>
                                 <p className="small-text green ">
                                     June 2019 - Current
                                 </p>
                                 <p className="small-text ">
-                                    &#8226 Assisting students during lab time and grading homework.<br/>
-                                    &#8226 Helping students understand the fundamental constructs of programming.
+                                    &#8226; Assisting students during lab time and grading homework.<br/>
+                                    &#8226; Helping students understand the fundamental constructs of programming.
                                 </p>
-                                <h3 className="green "> Captain, Training Officer</h3>
+                                <h2 className="green "> Captain, Training Officer</h2>
                                 <h3 className="">@ Fountain Green Fire Department</h3>
                                 <p className="small-text green ">
                                     Volunteer August 2016 - Current
                                 </p>
                                 <p className="small-text ">
-                                    &#8226 Training Volunteer firefighters to reach professional standards.<br/>
-                                    &#8226 Protecting community's from fires and other natural disasters.
+                                    &#8226; Training Volunteer firefighters to reach professional standards.<br/>
+                                    &#8226; Protecting community's from fires and other natural disasters.
                                 </p>
                         </div>
                     </div>
