@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kylerdaybelldotcom/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kylerdaybelldotcom/static/js/main.18eb633f.chunk.js",
+    "main.js.map": "/kylerdaybelldotcom/static/js/main.18eb633f.chunk.js.map",
+    "runtime-main.js": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js",
+    "runtime-main.js.map": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js.map",
+    "static/js/2.ff8e83c5.chunk.js": "/kylerdaybelldotcom/static/js/2.ff8e83c5.chunk.js",
+    "static/js/2.ff8e83c5.chunk.js.map": "/kylerdaybelldotcom/static/js/2.ff8e83c5.chunk.js.map",
+    "index.html": "/kylerdaybelldotcom/index.html",
+    "precache-manifest.5f3fb0998b0c0e1a9a383b97b3b01f7d.js": "/kylerdaybelldotcom/precache-manifest.5f3fb0998b0c0e1a9a383b97b3b01f7d.js",
+    "service-worker.js": "/kylerdaybelldotcom/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kylerdaybelldotcom/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ff8e83c5.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.ff8e83c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kylerdaybelldotcom/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b662349.js",
+    "static/js/2.ff8e83c5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.18eb633f.chunk.js"
+  ]
+}
