@@ -49,3 +49,9 @@ body{
 h1{
     color:#ccd1dd;
 }
+
+.no-wrap-ellipsis{
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}

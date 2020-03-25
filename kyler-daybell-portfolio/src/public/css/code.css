@@ -1,0 +1,31 @@
+*{
+    color:#ccd1dd;
+}
+
+.code{
+    background-color: darkgrey;
+    align-content: center;
+    width: 90%;
+    height: 60vh;
+    margin:auto;
+    overflow: scroll;
+    color: white;
+    border-radius: 0% !important;
+}
+
+.page-text{
+    width: 90%;
+    height: auto;
+    padding:17px;
+    background-image: url("/PUBLIC/Keyboard.jpg");
+    background-color: rgba(38, 35, 51,0.5);
+    background-blend-mode: exclusion;
+    background-size: cover;
+    margin:auto;
+}
+
+
+.header{
+    text-align: center;
+    color:#31e184;
+}
