@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kylerdaybelldotcom/static/css/main.09c7615c.chunk.css",
-    "main.js": "/kylerdaybelldotcom/static/js/main.34d6662c.chunk.js",
-    "main.js.map": "/kylerdaybelldotcom/static/js/main.34d6662c.chunk.js.map",
+    "main.css": "/kylerdaybelldotcom/static/css/main.11a1824e.chunk.css",
+    "main.js": "/kylerdaybelldotcom/static/js/main.1aa3f03a.chunk.js",
+    "main.js.map": "/kylerdaybelldotcom/static/js/main.1aa3f03a.chunk.js.map",
     "runtime-main.js": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js",
     "runtime-main.js.map": "/kylerdaybelldotcom/static/js/runtime-main.9b662349.js.map",
-    "static/js/2.304b3bb3.chunk.js": "/kylerdaybelldotcom/static/js/2.304b3bb3.chunk.js",
-    "static/js/2.304b3bb3.chunk.js.map": "/kylerdaybelldotcom/static/js/2.304b3bb3.chunk.js.map",
+    "static/js/2.74f0ec2a.chunk.js": "/kylerdaybelldotcom/static/js/2.74f0ec2a.chunk.js",
+    "static/js/2.74f0ec2a.chunk.js.map": "/kylerdaybelldotcom/static/js/2.74f0ec2a.chunk.js.map",
     "index.html": "/kylerdaybelldotcom/index.html",
-    "precache-manifest.d4acb3f6b58af2b411c462d8edf68528.js": "/kylerdaybelldotcom/precache-manifest.d4acb3f6b58af2b411c462d8edf68528.js",
+    "precache-manifest.32facf7e32c16cbd0037b3e88a47a517.js": "/kylerdaybelldotcom/precache-manifest.32facf7e32c16cbd0037b3e88a47a517.js",
     "service-worker.js": "/kylerdaybelldotcom/service-worker.js",
-    "static/css/main.09c7615c.chunk.css.map": "/kylerdaybelldotcom/static/css/main.09c7615c.chunk.css.map",
-    "static/js/2.304b3bb3.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.304b3bb3.chunk.js.LICENSE.txt",
+    "static/css/main.11a1824e.chunk.css.map": "/kylerdaybelldotcom/static/css/main.11a1824e.chunk.css.map",
+    "static/js/2.74f0ec2a.chunk.js.LICENSE.txt": "/kylerdaybelldotcom/static/js/2.74f0ec2a.chunk.js.LICENSE.txt",
     "static/media/homepage.css": "/kylerdaybelldotcom/static/media/Buildings.d041f4f0.jpg",
     "static/media/projectspage.css": "/kylerdaybelldotcom/static/media/Buildingnumber2.cb9260b5.jpg",
     "static/media/ExpressLogo.png": "/kylerdaybelldotcom/static/media/ExpressLogo.fe9713b4.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9b662349.js",
-    "static/js/2.304b3bb3.chunk.js",
-    "static/css/main.09c7615c.chunk.css",
-    "static/js/main.34d6662c.chunk.js"
+    "static/js/2.74f0ec2a.chunk.js",
+    "static/css/main.11a1824e.chunk.css",
+    "static/js/main.1aa3f03a.chunk.js"
   ]
 }
