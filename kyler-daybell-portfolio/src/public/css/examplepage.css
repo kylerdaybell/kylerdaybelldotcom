@@ -19,22 +19,30 @@ body{
 .card{
     display: inline-block;
     width:20vw;
+    height:auto;
     text-align: center;
     background-color:#262333;
     margin:1vw!important;
-    max-height: 20vh;
 }
 
 @media(hover: none) and (pointer: coarse){
     .card{
         display: inline-block;
         width:90vw;
+        height:auto;
         text-align: center;
         background-color:#262333;
         margin:1vw!important;
-        max-height: 20vh;
+    }
+    .card h1{
+        font-size: 3vw;
     }
 
+}
+
+.card h1{
+    font-size: 4vh;
+    line-height: 10vh;
 }
 
 .card:hover h1{
