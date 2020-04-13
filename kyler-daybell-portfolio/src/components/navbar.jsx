@@ -8,9 +8,6 @@ class Navbar extends Component {
             <NavLink className="bar-item-main roboto-text-thin" to="/">
               kylerdaybell.com
             </NavLink >
-            <NavLink className="bar-item roboto-text-thin" to="/About">
-              About
-            </NavLink >
             <NavLink className="bar-item roboto-text-thin" to="/Projects">
               projects
             </NavLink >

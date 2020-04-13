@@ -22,8 +22,7 @@ function App() {
     <Navbar/>
     <div className="container">
       <Switch>
-        <Route exact path="/" component={HomePage} />
-        <Route path="/About" component={AboutPage} />
+        <Route exact path="/" component={AboutPage} />
         <Route path="/Examples" component={ExamplesPage} />
         <Route path="/Projects" component={ProjectsPage} />
         <Route path="/Jest" component={JestExample} />

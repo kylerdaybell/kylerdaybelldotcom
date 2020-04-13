@@ -46,7 +46,7 @@ class AboutPage extends Component {
                         </div>
                         
                         <div className="skillname skill3name">
-                            <h3>HTML/CSS</h3>
+                            <h3>RESTful APIs</h3>
                         </div>
                         <div className="skillstars skill3stars">
                             <h3>&#9733; &#9733; &#9733; &#9733; &#9734;</h3>
@@ -65,14 +65,14 @@ class AboutPage extends Component {
                             <h3>&#9733; &#9733; &#9733; &#9733; &#9734;</h3>
                         </div>
                         <div className="skillname skill6name">
-                            <h3>Jest Testing framework</h3>
+                            <h3>Typescript</h3>
                         </div>
                         <div className="skillstars skill6stars">
                             <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         
                         <div className="skillname skill7name">
-                            <h3>Electron</h3>
+                            <h3>React Native</h3>
                         </div>
                         <div className="skillstars skill7stars">
                             <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
@@ -91,7 +91,7 @@ class AboutPage extends Component {
                             <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         <div className="skillname skill8name">
-                            <h3>linux</h3>
+                            <h3>Linux</h3>
                         </div>
                         <div className="skillstars skill8stars">
                             <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
@@ -104,7 +104,7 @@ class AboutPage extends Component {
                             <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>
                         </div>
                         <div className="skillname skill8name">
-                            <h3>Agile</h3>
+                            <h3>Redux</h3>
                         </div>
                         <div className="skillstars skill8stars">
                             <h3>&#9733; &#9733; &#9733; &#9734; &#9734;</h3>

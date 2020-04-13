@@ -10,9 +10,9 @@ class HomePage extends Component {
             <>
             <div className="section1">
             <h1 className="header-text">
-                <span className="green"> Code</span>
+                <span className="green"> Code </span>
                 is the coolest set of
-                <span className="green">[LEGOS]</span>.
+                <span className="green"> [LEGOS] </span>.
             </h1>
             </div>
                 <div className="section2">
