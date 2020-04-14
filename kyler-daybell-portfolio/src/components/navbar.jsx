@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { NavLink } from "react-router-dom";
-import singlelinelogo from '../public/images/Single-Line-Logo.png'
 class Navbar extends Component {
     render() {
       return (

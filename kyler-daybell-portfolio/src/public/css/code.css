@@ -1,26 +1,29 @@
 .code{
-    background-color: darkgrey;
+    background-color: var(--dark-grey);
     align-content: center;
     width: 90%;
+    padding:10px;
     height: 60vh;
     margin:auto;
     overflow: scroll;
-    color: white;
     border-radius: 0% !important;
 }
 
 .page-text{
     width: 90%;
     height: auto;
-    padding:17px;
-    background-image: url("/PUBLIC/Keyboard.jpg");
-    background-color: rgba(38, 35, 51,0.5);
-    background-blend-mode: exclusion;
-    background-size: cover;
+    padding:10px;
+    background-color: var(--dark-grey);
+    color:var(--light-grey);
     margin:auto;
 }
 
 
 .header{
     text-align: center;
+}
+
+.container{
+    min-height: 95vh;
+    background-color: var(--light-grey);
 }

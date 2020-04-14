@@ -25,29 +25,22 @@
     line-height: 20vh;
 }
 
-.project{
-    margin:auto;
-    text-align:center;
-    max-width: 75vh;
-    background-color: #433e5a;
-    padding:1vh;
-}
-
 .project-holder1{
     text-align: center;
-    color:#ccd1dd;
-    background-color: #262333;
+    color:var(--dark-grey);
+    background-color: var(--light-grey);
     min-height: 50vh;
-    padding:5vh;
+    padding:1vh;
 }
 
 .project-holder2{
     text-align: center;
-    color:#ccd1dd;
-    background-color: #262333;
+    color:var(--light-grey);
+    background-color:var(--dark-grey);
     min-height: 50vh;
-    padding:5vh;
+    padding:1vh;
 }
+
 
 .header{
     font-size:7vh;

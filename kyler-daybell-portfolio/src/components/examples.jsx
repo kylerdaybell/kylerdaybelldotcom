@@ -6,6 +6,8 @@ import expressslogo from '../public/images/ExpressLogo.png'
 import reactlogo from '../public/images/ReactLogo.png'
 import jestlogo from '../public/images/JestLogo.png'
 import mysqllogo from '../public/images/MySQLLogo.png'
+import typescriptlogo from '../public/images/typescriptLogo.png'
+import jwtlogo from "../public/images/JWTLogo.png"
 
 
 class ExamplesPage extends Component {
@@ -64,6 +66,24 @@ class ExamplesPage extends Component {
                             <h1 className="no-wrap-ellipsis">MySQL</h1>
                         </div>
                     </NavLink>
+                </div>
+
+                <div className="typescript-example">
+                    <NavLink className="bar-item roboto-text-thin" to="/typescriptmodel">         
+                        <div className="card">
+                            <img className="card-logo" src={typescriptlogo}/>
+                            <h1 className="no-wrap-ellipsis">Typescript Model</h1>
+                        </div>
+                    </NavLink>
+
+            
+                    <NavLink className="bar-item roboto-text-thin" to="/JWTAuth">
+                        <div className="card">
+                            <img className="card-logo" src={jwtlogo}/>
+                            <h1 className="no-wrap-ellipsis">JWT auth</h1>
+                        </div>
+                    </NavLink>
+
                 </div>
             </>
         );

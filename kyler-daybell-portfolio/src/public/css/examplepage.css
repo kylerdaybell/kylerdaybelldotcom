@@ -2,24 +2,32 @@
 
 .node-example{
     text-align: center;
+    background-color: var(--light-grey);
 }
 
-.node-example-image{
-    grid-area: example;
-    width:100%;
-    height:100%;
-    opacity: .5;
-    z-index: -1;
+.typescript-example{
+    text-align: center;
+    background-color: var(--dark-grey);
 }
+
 
 
 .card{
     display: inline-block;
-    width:20vw;
+    width:25vw;
     height:auto;
     text-align: center;
-    background-color:#262333;
     margin:1vw!important;
+    padding:1vw;
+}
+
+.node-example .card{
+    background-color:var(--dark-grey);
+}
+
+.typescript-example .card{
+    background-color:var(--light-grey);
+    color:var(--dark-grey)
 }
 
 @media(hover: none) and (pointer: coarse){
@@ -28,7 +36,6 @@
         width:90vw;
         height:auto;
         text-align: center;
-        background-color:#262333;
         margin:1vw!important;
     }
     .card h1{

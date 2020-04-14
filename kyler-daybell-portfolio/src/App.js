@@ -10,6 +10,8 @@ import NodeServiceExample from './components/code-examples/nodeservices'
 import ExpressExample from './components/code-examples/express'
 import NodeMysqlExample from './components/code-examples/nodemysql'
 import ReactExample from './components/code-examples/react'
+import TypeScriptModel from './components/code-examples/typescriptmodel'
+import JWTServcice from './components/code-examples/JWTService'
 import Navbar from './components/navbar';
 import Notfound from './components/notfound'
 import './public/css/App.css';
@@ -31,6 +33,8 @@ function App() {
         <Route path="/Express" component={ExpressExample} />
         <Route path="/NodeMysql" component={NodeMysqlExample} />
         <Route path="/React" component={ReactExample} />
+        <Route path="/typescriptmodel" component={TypeScriptModel} />
+        <Route path="/JWTAuth" component={JWTServcice} />
         <Route path="/404" component={Notfound} />
         <Route component={Notfound} />
       </Switch>
