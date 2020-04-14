@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kylerdaybellportfolio/static/css/main.a8864f55.chunk.css",
+    "main.css": "/kylerdaybellportfolio/static/css/main.4f52225c.chunk.css",
     "main.js": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js",
     "main.js.map": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js.map",
     "runtime-main.js": "/kylerdaybellportfolio/static/js/runtime-main.f4ab1066.js",
@@ -8,9 +8,9 @@
     "static/js/2.bf1f3cea.chunk.js": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js",
     "static/js/2.bf1f3cea.chunk.js.map": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.map",
     "index.html": "/kylerdaybellportfolio/index.html",
-    "precache-manifest.d2ecff4a85927e6ce5656e044f46a025.js": "/kylerdaybellportfolio/precache-manifest.d2ecff4a85927e6ce5656e044f46a025.js",
+    "precache-manifest.0f4b9f9d56e58b91063755d7b794539a.js": "/kylerdaybellportfolio/precache-manifest.0f4b9f9d56e58b91063755d7b794539a.js",
     "service-worker.js": "/kylerdaybellportfolio/service-worker.js",
-    "static/css/main.a8864f55.chunk.css.map": "/kylerdaybellportfolio/static/css/main.a8864f55.chunk.css.map",
+    "static/css/main.4f52225c.chunk.css.map": "/kylerdaybellportfolio/static/css/main.4f52225c.chunk.css.map",
     "static/js/2.bf1f3cea.chunk.js.LICENSE.txt": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.LICENSE.txt",
     "static/media/projectspage.css": "/kylerdaybellportfolio/static/media/Buildingnumber2.cb9260b5.jpg",
     "static/media/ExpressLogo.png": "/kylerdaybellportfolio/static/media/ExpressLogo.fe9713b4.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.f4ab1066.js",
     "static/js/2.bf1f3cea.chunk.js",
-    "static/css/main.a8864f55.chunk.css",
+    "static/css/main.4f52225c.chunk.css",
     "static/js/main.5e3a15ea.chunk.js"
   ]
 }
