@@ -23,7 +23,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "http://kylerdaybell.github.io/kylerdaybelldotcom",
+  "homepage": "https://kylerdaybell.github.io/kylerdaybellportfolio/",
   "browserslist": {
     "production": [
       ">0.2%",
