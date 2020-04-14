@@ -2,10 +2,10 @@
 
 :root{
     --hilight: #6EFFBE;
-    --backgroundcolor: white;
+    --white: white;
     --dark-grey:#313233;
     --text-color:black;
-    --light-grey:#cdcdcd;
+    --light-grey:#adadad;
   }
   
 
@@ -47,14 +47,14 @@ a{
 
 .bar{
     grid-area:nav;
-    background-color: white;
+    background-color: var(--dark-grey);
     height: 5vh;
 }
 .bar-item{
-    font-weight: 400;
+    font-weight: 300;
     line-height: 5vh;
     font-size: large;
-    color:var(--dark-grey);
+    color:var(--light-grey);
     padding:.75vh;
     margin:auto;
 }
@@ -64,7 +64,7 @@ a{
     font-size: 5vh;
     line-height: 5vh;
     font-size: large;
-    color:var(--dark-grey);
+    color:var(--light-grey);
     padding:.75vh;
     margin:auto;
     border-right:1px solid #ccd1dd;

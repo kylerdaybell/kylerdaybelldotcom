@@ -36,11 +36,9 @@ p{
 
 .section1{
     /* background-image: linear-gradient(to bottom right, darkgrey, black); */
-    background-color:var(--light-grey);
-    background-image: url("../images/Keyboard.jpg");
-    background-size: cover;
-    background-blend-mode:soft-light ;
-    color: black!important;
+    background-image: url("../images/CurveLine.jpg");
+    background-size:cover;
+    color: white!important;
     padding: 2vh;
     min-height: 50vh;
     text-align: center;
