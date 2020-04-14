@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cb7b1cea5cd856a1a0d7d539f12f982",
+    "revision": "67c1e71d85d6c4e0bce51e12d9e27067",
     "url": "/kylerdaybellportfolio/index.html"
   },
   {
-    "revision": "0e0bd6b30ef270e672c3",
-    "url": "/kylerdaybellportfolio/static/css/main.4f52225c.chunk.css"
+    "revision": "e37e455b4ceb739d58d2",
+    "url": "/kylerdaybellportfolio/static/css/main.7d61d5f4.chunk.css"
   },
   {
     "revision": "36394be0ef4de6d475d0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e0bd6b30ef270e672c3",
+    "revision": "e37e455b4ceb739d58d2",
     "url": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kylerdaybellportfolio/static/media/Buildingnumber2.cb9260b5.jpg"
   },
   {
+    "revision": "4402287d09b9ec52ee64a8d4d8fefcd5",
+    "url": "/kylerdaybellportfolio/static/media/CurveLine.4402287d.jpg"
+  },
+  {
     "revision": "fe9713b46834e58c1664e3cb143f01a5",
     "url": "/kylerdaybellportfolio/static/media/ExpressLogo.fe9713b4.png"
   },
   {
     "revision": "450c112d0d32c82bd89919ff36cb79ca",
     "url": "/kylerdaybellportfolio/static/media/JestLogo.450c112d.png"
-  },
-  {
-    "revision": "6109c3ffdf9deae3da77b0fde0ff53bc",
-    "url": "/kylerdaybellportfolio/static/media/Keyboard.6109c3ff.jpg"
   },
   {
     "revision": "af25e683b9a66ddf279939e77d47ad3a",

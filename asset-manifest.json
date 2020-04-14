@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kylerdaybellportfolio/static/css/main.4f52225c.chunk.css",
+    "main.css": "/kylerdaybellportfolio/static/css/main.7d61d5f4.chunk.css",
     "main.js": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js",
     "main.js.map": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js.map",
     "runtime-main.js": "/kylerdaybellportfolio/static/js/runtime-main.f4ab1066.js",
@@ -8,14 +8,14 @@
     "static/js/2.bf1f3cea.chunk.js": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js",
     "static/js/2.bf1f3cea.chunk.js.map": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.map",
     "index.html": "/kylerdaybellportfolio/index.html",
-    "precache-manifest.0f4b9f9d56e58b91063755d7b794539a.js": "/kylerdaybellportfolio/precache-manifest.0f4b9f9d56e58b91063755d7b794539a.js",
+    "precache-manifest.6b63886efc6be2837c890fc982b8f389.js": "/kylerdaybellportfolio/precache-manifest.6b63886efc6be2837c890fc982b8f389.js",
     "service-worker.js": "/kylerdaybellportfolio/service-worker.js",
-    "static/css/main.4f52225c.chunk.css.map": "/kylerdaybellportfolio/static/css/main.4f52225c.chunk.css.map",
+    "static/css/main.7d61d5f4.chunk.css.map": "/kylerdaybellportfolio/static/css/main.7d61d5f4.chunk.css.map",
     "static/js/2.bf1f3cea.chunk.js.LICENSE.txt": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.LICENSE.txt",
     "static/media/projectspage.css": "/kylerdaybellportfolio/static/media/Buildingnumber2.cb9260b5.jpg",
+    "static/media/aboutpage.css": "/kylerdaybellportfolio/static/media/CurveLine.4402287d.jpg",
     "static/media/ExpressLogo.png": "/kylerdaybellportfolio/static/media/ExpressLogo.fe9713b4.png",
     "static/media/JestLogo.png": "/kylerdaybellportfolio/static/media/JestLogo.450c112d.png",
-    "static/media/aboutpage.css": "/kylerdaybellportfolio/static/media/Keyboard.6109c3ff.jpg",
     "static/media/MySQLLogo.png": "/kylerdaybellportfolio/static/media/MySQLLogo.af25e683.png",
     "static/media/NodeLogo.png": "/kylerdaybellportfolio/static/media/NodeLogo.74f3cbcd.png",
     "static/media/ReactLogo.png": "/kylerdaybellportfolio/static/media/ReactLogo.47ce6e77.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.f4ab1066.js",
     "static/js/2.bf1f3cea.chunk.js",
-    "static/css/main.4f52225c.chunk.css",
+    "static/css/main.7d61d5f4.chunk.css",
     "static/js/main.5e3a15ea.chunk.js"
   ]
 }
