@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/kylerdaybellportfolio/static/css/main.7d61d5f4.chunk.css",
-    "main.js": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js",
-    "main.js.map": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js.map",
+    "main.css": "/kylerdaybellportfolio/static/css/main.17e166a0.chunk.css",
+    "main.js": "/kylerdaybellportfolio/static/js/main.c6f6087a.chunk.js",
+    "main.js.map": "/kylerdaybellportfolio/static/js/main.c6f6087a.chunk.js.map",
     "runtime-main.js": "/kylerdaybellportfolio/static/js/runtime-main.f4ab1066.js",
     "runtime-main.js.map": "/kylerdaybellportfolio/static/js/runtime-main.f4ab1066.js.map",
-    "static/js/2.bf1f3cea.chunk.js": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js",
-    "static/js/2.bf1f3cea.chunk.js.map": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.map",
+    "static/js/2.12c0cb17.chunk.js": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js",
+    "static/js/2.12c0cb17.chunk.js.map": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js.map",
     "index.html": "/kylerdaybellportfolio/index.html",
-    "precache-manifest.6b63886efc6be2837c890fc982b8f389.js": "/kylerdaybellportfolio/precache-manifest.6b63886efc6be2837c890fc982b8f389.js",
+    "precache-manifest.943f2d74af02bfd5110d8e28d33d023a.js": "/kylerdaybellportfolio/precache-manifest.943f2d74af02bfd5110d8e28d33d023a.js",
     "service-worker.js": "/kylerdaybellportfolio/service-worker.js",
-    "static/css/main.7d61d5f4.chunk.css.map": "/kylerdaybellportfolio/static/css/main.7d61d5f4.chunk.css.map",
-    "static/js/2.bf1f3cea.chunk.js.LICENSE.txt": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.LICENSE.txt",
+    "static/css/main.17e166a0.chunk.css.map": "/kylerdaybellportfolio/static/css/main.17e166a0.chunk.css.map",
+    "static/js/2.12c0cb17.chunk.js.LICENSE.txt": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js.LICENSE.txt",
     "static/media/projectspage.css": "/kylerdaybellportfolio/static/media/Buildingnumber2.cb9260b5.jpg",
     "static/media/aboutpage.css": "/kylerdaybellportfolio/static/media/CurveLine.4402287d.jpg",
     "static/media/ExpressLogo.png": "/kylerdaybellportfolio/static/media/ExpressLogo.fe9713b4.png",
     "static/media/JestLogo.png": "/kylerdaybellportfolio/static/media/JestLogo.450c112d.png",
     "static/media/MySQLLogo.png": "/kylerdaybellportfolio/static/media/MySQLLogo.af25e683.png",
     "static/media/NodeLogo.png": "/kylerdaybellportfolio/static/media/NodeLogo.74f3cbcd.png",
-    "static/media/ReactLogo.png": "/kylerdaybellportfolio/static/media/ReactLogo.47ce6e77.png",
-    "static/media/Single-Line-Logo.png": "/kylerdaybellportfolio/static/media/Single-Line-Logo.9a490b45.png"
+    "static/media/ReactLogo.png": "/kylerdaybellportfolio/static/media/ReactLogo.47ce6e77.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f4ab1066.js",
-    "static/js/2.bf1f3cea.chunk.js",
-    "static/css/main.7d61d5f4.chunk.css",
-    "static/js/main.5e3a15ea.chunk.js"
+    "static/js/2.12c0cb17.chunk.js",
+    "static/css/main.17e166a0.chunk.css",
+    "static/js/main.c6f6087a.chunk.js"
   ]
 }

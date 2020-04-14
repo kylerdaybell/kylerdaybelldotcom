@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67c1e71d85d6c4e0bce51e12d9e27067",
+    "revision": "7747709a53c686c6fa080e58b8f9af10",
     "url": "/kylerdaybellportfolio/index.html"
   },
   {
-    "revision": "e37e455b4ceb739d58d2",
-    "url": "/kylerdaybellportfolio/static/css/main.7d61d5f4.chunk.css"
+    "revision": "508f3271e7565271806a",
+    "url": "/kylerdaybellportfolio/static/css/main.17e166a0.chunk.css"
   },
   {
-    "revision": "36394be0ef4de6d475d0",
-    "url": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js"
+    "revision": "17d49f1a03b5a3e96e11",
+    "url": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/kylerdaybellportfolio/static/js/2.bf1f3cea.chunk.js.LICENSE.txt"
+    "url": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e37e455b4ceb739d58d2",
-    "url": "/kylerdaybellportfolio/static/js/main.5e3a15ea.chunk.js"
+    "revision": "508f3271e7565271806a",
+    "url": "/kylerdaybellportfolio/static/js/main.c6f6087a.chunk.js"
   },
   {
     "revision": "750d29aeddf319ce7f4a",
@@ -50,9 +50,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "47ce6e77f039020ee2e76a10c1e988e9",
     "url": "/kylerdaybellportfolio/static/media/ReactLogo.47ce6e77.png"
-  },
-  {
-    "revision": "9a490b458560a090294c617544988d18",
-    "url": "/kylerdaybellportfolio/static/media/Single-Line-Logo.9a490b45.png"
   }
 ]);
