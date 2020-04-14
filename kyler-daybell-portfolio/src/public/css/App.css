@@ -1,18 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,400,700&display=swap');
-body{
+
+:root{
+    --hilight: #6EFFBE;
+    --backgroundcolor: white;
+    --dark-grey:#313233;
+    --text-color:black;
+    --light-grey:#cdcdcd;
+  }
+  
+
+/* body{
     background-color: #262333;
-}
+} */
 
 
 h1{
     margin-top: 0;
 }
+
 a{
     text-decoration: none;
 }
 
 .green{
-    color:#31e184;
+    color:var(--hilight)!important;
 }
 
 /* this is the navbar */
@@ -23,7 +34,7 @@ a{
 }
 
 .button-green{
-    background-color: #31e184;
+    background-color: var(--hilight);
     box-shadow: none;
     border: none;
     padding:.5vh;
@@ -36,35 +47,35 @@ a{
 
 .bar{
     grid-area:nav;
-    background-color: #262333;
+    background-color: white;
     height: 5vh;
 }
 .bar-item{
-    font-weight: 200;
+    font-weight: 400;
     line-height: 5vh;
     font-size: large;
-    color:#ccd1dd;
+    color:var(--dark-grey);
     padding:.75vh;
     margin:auto;
 }
 
 .bar-item-main{
-    font-weight: 200;
+    font-weight: 400;
     font-size: 5vh;
     line-height: 5vh;
     font-size: large;
-    color:#ccd1dd;
+    color:var(--dark-grey);
     padding:.75vh;
     margin:auto;
     border-right:1px solid #ccd1dd;
 }
 
 .bar-item-main:hover{
-    color:#31e184;
+    color:var(--hilight);
 }
 
 .bar-item:hover{
-    color:#31e184;
+    color:var(--hilight);
 }
 
 .no-wrap{
@@ -77,7 +88,6 @@ a{
 
 @media(hover: none) and (pointer: coarse){
   .bar{
-      background-color: #262333;
       height: 10vh!important;
   }
 
@@ -85,7 +95,6 @@ a{
       font-weight: 200;
       line-height: 10vh;
       font-size: 2vh;
-      color:#ccd1dd;
       padding:.75vh;
       margin:auto;
   }
@@ -95,9 +104,7 @@ a{
       font-size: 10vh;
       line-height: 10vh;
       font-size: 2vh;
-      color:#ccd1dd;
       padding:.75vh;
       margin:auto;
-      border-right:1px solid #ccd1dd;
   }
 }

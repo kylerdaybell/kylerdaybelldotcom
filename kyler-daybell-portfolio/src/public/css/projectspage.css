@@ -1,6 +1,6 @@
-body{
+/* body{
     background-color: #262333!important;
-}
+} */
 
 .top{
     background-image: url("../images/Buildingnumber2.jpg");
@@ -56,7 +56,7 @@ body{
 
 
 .green{
-    color:#31e184;
+    color:var(--hilight);
 }
 
 .thick{

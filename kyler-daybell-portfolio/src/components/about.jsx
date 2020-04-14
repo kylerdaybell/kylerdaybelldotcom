@@ -6,21 +6,21 @@ class AboutPage extends Component {
     render() {
         return (
             <>
-                <div className="section1 header">
+                <div className="section1 center">
                     <h1 className="header">Hi I'm <span className="green">Kyler Daybell</span>.</h1>
-                    <div className="roboto-text-thin header-padding">
-                        <p className="roboto-text-thin header-padding">
+                    <div>
+                        <p className="roboto-text-thin">
                             I love working with <span className="green">code</span> and building amazing new things.
                         </p>
-                        <p className="roboto-text-thin header-padding">
+                        <p className="roboto-text-thin">
                             I am a <span className="green">full stack developer</span> with an emphasis on <span className="green">back
                                 end</span> and <span className="green">API's.</span>
                         </p>
-                        <p className="roboto-text-thin header-padding">
+                        <p className="roboto-text-thin">
                             Most of my experience has been with <span className="green">Node.js</span> and <span
                                 className="green">JavaScript.</span>
                         </p>
-                        <p className="roboto-text-thin header-padding">
+                        <p className="roboto-text-thin">
                             <span className="green">Database design</span> and <span className="green">Database queries</span> are my
                             favorite things to work with.
                         </p>
@@ -117,7 +117,7 @@ class AboutPage extends Component {
                         <h1 className="header ">Work Experience</h1>
                         <div className="work-experience header-padding ">
                             <h2 className="green ">Software Engineer and I.T. Administrator</h2>
-                            <h3 className="">@ Dynamic Integrations</h3>
+                            <h3 >@ Dynamic Integrations</h3>
                             <p className="small-text green ">
                                 June 2019 - Current
                             </p>
@@ -127,7 +127,7 @@ class AboutPage extends Component {
                                 &#8226; Providing technical support to customers
                             </p>
                             <h2 className="green ">Computer Science Tutor</h2>
-                                <h3 className="">@ Snow College Computer Science Department</h3>
+                                <h3 >@ Snow College Computer Science Department</h3>
                                 <p className="small-text green ">
                                     June 2019 - Current
                                 </p>
@@ -136,7 +136,7 @@ class AboutPage extends Component {
                                     &#8226; Helping students understand the fundamental constructs of programming.
                                 </p>
                                 <h2 className="green "> Captain, Training Officer</h2>
-                                <h3 className="">@ Fountain Green Fire Department</h3>
+                                <h3>@ Fountain Green Fire Department</h3>
                                 <p className="small-text green ">
                                     Volunteer August 2016 - Current
                                 </p>
@@ -153,19 +153,19 @@ class AboutPage extends Component {
                         <h1 className="header ">Education</h1>
                         <div className="work-experience header-padding ">
                             <h2 className="green ">B.S. Software Engineering</h2>
-                            <h3 className="">Snow College</h3>
-                            <p className="small-text green ">
+                            <h3>@ Snow College</h3>
+                            <p className="small-text">
                                 Emphasis in web development
                             </p>
-                            <p className="small-text green ">
+                            <p className="small-text">
                                 August 2018 - May 2020
                             </p>
                             <h2 className="green ">Associates of Pre-Engineering</h2>
-                            <h3 className="">Snow College </h3>
-                            <p className="small-text green ">
+                            <h3>@ Snow College</h3>
+                            <p className="small-text">
                                 August 2015 - May 2018
                             </p>
-                            <p className="small-text green ">
+                            <p className="small-text">
                                 Emphasis in software engineering
                             </p>
                         </div>

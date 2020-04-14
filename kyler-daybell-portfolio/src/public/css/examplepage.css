@@ -1,7 +1,4 @@
-body{
-    background-image: url('../images/Mountain.jpg');
-    background-size:cover!important;
-}
+
 
 .node-example{
     text-align: center;
@@ -46,7 +43,7 @@ body{
 }
 
 .card:hover h1{
-    color:#31e184;
+    color:var(--hilight);
 }
 
 .card-logo{
@@ -54,9 +51,6 @@ body{
     height: 10vh;
 }
 
-h1{
-    color:#ccd1dd;
-}
 
 .no-wrap-ellipsis{
     white-space: nowrap; 
