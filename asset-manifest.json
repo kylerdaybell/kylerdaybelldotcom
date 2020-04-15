@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kylerdaybellportfolio/static/css/main.17e166a0.chunk.css",
+    "main.css": "/kylerdaybellportfolio/static/css/main.8d54611e.chunk.css",
     "main.js": "/kylerdaybellportfolio/static/js/main.c6f6087a.chunk.js",
     "main.js.map": "/kylerdaybellportfolio/static/js/main.c6f6087a.chunk.js.map",
     "runtime-main.js": "/kylerdaybellportfolio/static/js/runtime-main.f4ab1066.js",
@@ -8,9 +8,9 @@
     "static/js/2.12c0cb17.chunk.js": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js",
     "static/js/2.12c0cb17.chunk.js.map": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js.map",
     "index.html": "/kylerdaybellportfolio/index.html",
-    "precache-manifest.943f2d74af02bfd5110d8e28d33d023a.js": "/kylerdaybellportfolio/precache-manifest.943f2d74af02bfd5110d8e28d33d023a.js",
+    "precache-manifest.a1a184e071e9d02724ad7c09654dc7d4.js": "/kylerdaybellportfolio/precache-manifest.a1a184e071e9d02724ad7c09654dc7d4.js",
     "service-worker.js": "/kylerdaybellportfolio/service-worker.js",
-    "static/css/main.17e166a0.chunk.css.map": "/kylerdaybellportfolio/static/css/main.17e166a0.chunk.css.map",
+    "static/css/main.8d54611e.chunk.css.map": "/kylerdaybellportfolio/static/css/main.8d54611e.chunk.css.map",
     "static/js/2.12c0cb17.chunk.js.LICENSE.txt": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js.LICENSE.txt",
     "static/media/projectspage.css": "/kylerdaybellportfolio/static/media/Buildingnumber2.cb9260b5.jpg",
     "static/media/aboutpage.css": "/kylerdaybellportfolio/static/media/CurveLine.4402287d.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.f4ab1066.js",
     "static/js/2.12c0cb17.chunk.js",
-    "static/css/main.17e166a0.chunk.css",
+    "static/css/main.8d54611e.chunk.css",
     "static/js/main.c6f6087a.chunk.js"
   ]
 }

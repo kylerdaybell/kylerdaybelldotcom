@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7747709a53c686c6fa080e58b8f9af10",
+    "revision": "df6b9b08b77c49fee753c34028e26d88",
     "url": "/kylerdaybellportfolio/index.html"
   },
   {
-    "revision": "508f3271e7565271806a",
-    "url": "/kylerdaybellportfolio/static/css/main.17e166a0.chunk.css"
+    "revision": "632673f5fb09225c1d0e",
+    "url": "/kylerdaybellportfolio/static/css/main.8d54611e.chunk.css"
   },
   {
     "revision": "17d49f1a03b5a3e96e11",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kylerdaybellportfolio/static/js/2.12c0cb17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "508f3271e7565271806a",
+    "revision": "632673f5fb09225c1d0e",
     "url": "/kylerdaybellportfolio/static/js/main.c6f6087a.chunk.js"
   },
   {
